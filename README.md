@@ -14,6 +14,7 @@ If you want to use this dataset  in your research, please cite the following wor
 [4] Wang, Z., Li, L., Zeng, C., & Yao, J. (2023). Student Learning Behavior Recognition Incorporating Data Augmentation with Learning Feature Representation in Smart Classrooms. Sensors, 23(19), Article 19. https://doi.org/10.3390/s23198190    
 
 [5] Wang, Z., Yao, J., Zeng, C., Wu, W., Xu, H., & Yang, Y. (2022). YOLOv5 Enhanced Learning Behavior Recognition and Analysis in Smart Classroom with Multiple Students. 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), 23–29. https://doi.org/10.1109/IEIR56323.2022.10050042    
+
 ### BibTex
 @inproceedings{Wang2022,<br>
   title = {YOLOv5 Enhanced Learning Behavior Recognition and Analysis in Smart Classroom with Multiple Students},<br>  
