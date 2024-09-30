@@ -16,14 +16,23 @@ If you want to use this dataset  in your research, please cite the following wor
 [5] Wang, Z., Yao, J., Zeng, C., Wu, W., Xu, H., & Yang, Y. (2022). YOLOv5 Enhanced Learning Behavior Recognition and Analysis in Smart Classroom with Multiple Students. 2022 International Conference on Intelligent Education and Intelligent Research (IEIR), 23–29. https://doi.org/10.1109/IEIR56323.2022.10050042    
 ### BibTex
 @inproceedings{Wang2022,
+
   title = {YOLOv5 Enhanced Learning Behavior Recognition and Analysis in Smart Classroom with Multiple Students},
+  
   booktitle = {2022 International Conference on Intelligent Education and Intelligent Research (IEIR)},
+  
   author = {Wang, Zhifeng and Yao, Jialong and Zeng, Chunyan and Wu, Wanxuan and Xu, Hongmin and Yang, Yang},
+  
   year = {2022},
+  
   month = dec,
+  
   pages = {23--29},
+  
   publisher = {IEEE},
+  
   doi = {10.1109/IEIR56323.2022.10050042}
+  
 }
 
 @article{Wang2023a,
